@@ -1,16 +1,5 @@
 # aula03_chamados_power
 
-A new Flutter project.
+Disciplina SI21405 - Projeto para Dispositivos Móveis (T01)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Aula 03](https://ember-feeling-d46.notion.site/Aula-3-10-08-2022-010d403985b740a4b742644f0e730710)
